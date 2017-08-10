@@ -4,6 +4,6 @@ class QrcodeImage
 {
 	public static function createImage()
 	{
-		echo "This is Ford image!<br />";
+		echo "This is Ford images!<br />";
 	}
 }
