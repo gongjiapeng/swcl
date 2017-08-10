@@ -1,0 +1,24 @@
+{
+	"name":"swcl/swcl",
+	"description": "swcl is a package",
+	"keywords":["swcl","php","api"],
+	"homepage":"https://github.com/gongjiapeng/swcl",
+	"license": "MIT",
+	"authors": [
+        {
+            "name": "peng",
+            "email": "574343824@qq.com",
+            "homepage":"https://github.com/gongjiapeng/swcl",
+            "role": "Developer"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^5.3.3 || ^7.0",
+    },
+    "autoload": {
+        "psr-4": {
+            "CreateImage\\QrcodeImage\\": "src/CreateImage/QrcodeImage"
+        }
+    }  
+}
