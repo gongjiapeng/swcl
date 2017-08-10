@@ -8,13 +8,11 @@
         {
             "name": "peng",
             "email": "574343824@qq.com",
-            "homepage":"https://github.com/gongjiapeng/swcl",
-            "role": "Developer"
         }
     ],
     "minimum-stability": "dev",
     "require": {
-        "php": "^5.3.3 || ^7.0",
+        "php": ">=7.0.0",
     },
     "autoload": {
         "psr-4": {
