@@ -1,6 +1,7 @@
 {
 	"name":"swcl/swcl",
 	"description": "swcl is a package",
+	"version": "0.3",
 	"keywords":["swcl","php","api"],
 	"homepage":"https://github.com/gongjiapeng/swcl",
 	"license": "MIT",
